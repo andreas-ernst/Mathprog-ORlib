@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/andreas-ernst/Mathprog-ORlib/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site provides access to a number of Operations Research problem data sets. It is modelled on the excellent [ORlibrary](http://people.brunel.ac.uk/~mastjjb/jeb/info.html) by [Prof John Beasley](http://people.brunel.ac.uk/~mastjjb/jeb/jeb.html) that is no longer being actively maintained. It focusses mainly on data sets developed by Mohan Krishnamoorthy, Andreas Ernst and their collaborators.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Data Sets
 
-### Markdown
+* Hub Location
+* Indonesia Container Movement
+* Convoy Movement Problem
+* Multiple Depot Vehicle Scheduling Problem
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### About
 
-**Bold** and _Italic_ and `Code` text
+This site is maintained by the MATHPROG group (Mohan & Andreas' THeoretical & PRactical Operations-research Group) and friends with the first version based largely on the work of Hamid Mokhtar.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreas-ernst/Mathprog-ORlib/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

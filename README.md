@@ -1,5 +1,5 @@
 
-This site provides access to a number of Operations Research problem data sets. It is modelled on the excellent [ORlibrary](http://people.brunel.ac.uk/~mastjjb/jeb/info.html) by [Prof John Beasley](http://people.brunel.ac.uk/~mastjjb/jeb/jeb.html) that is no longer being actively maintained. It focusses mainly on data sets developed by Mohan Krishnamoorthy, Andreas Ernst and their collaborators.
+This site provides access to a number of Operations Research problem data sets. It focusses mainly on data sets developed by Mohan Krishnamoorthy, Andreas Ernst and their collaborators. It is modeled on the excellent [ORlibrary](http://people.brunel.ac.uk/~mastjjb/jeb/info.html) by [Prof John Beasley](http://people.brunel.ac.uk/~mastjjb/jeb/jeb.html) that is no longer being actively maintained. 
 
 # Data Sets
 

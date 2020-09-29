@@ -28,12 +28,10 @@ Data file format for nodes file:
 :
 :
 <x[n]> <y[n]>               x & y coordinates of node n
-<w[1][1]> <w[1][2]> ... <w[1][n]>    flow from
-node 1 to all others
+<w[1][1]> <w[1][2]> ... <w[1][n]>    flow from node 1 to all others
 : : :
 : : :
-<w[n][1]> <w[n][2]> ... <w[n][n]>    flow from
-node n to all others
+<w[n][1]> <w[n][2]> ... <w[n][n]>    flow from node n to all others
 <p>        Number of hubs (for p-hub median problems)
 <δ>        Collection cost
 <α>        Transfer cost

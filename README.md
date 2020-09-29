@@ -7,7 +7,7 @@ This site provides access to a number of Operations Research problem data sets. 
 * Indonesia Container Movement
 * Convoy Movement Problem
 * Multiple Depot Vehicle Scheduling Problem
-
+* [Personnel Task Scheduling Problem](readmePTSP.md) - scheduling fixed tasks (intervals0 on machines with time windows & qualifications.
 
 
 

@@ -5,7 +5,7 @@ Commonly used data sets for hub location problems include:
 * The _Australia Post (AP)_ instances (see below)
 * The _Turkish Network_ (TR) instances are available from Prof Bahar
      Yetis Kara at this
-     [webstite](https://ie.bilkent.edu.tr/~bkara/hub_location.php)
+     [website](https://ie.bilkent.edu.tr/~bkara/hub_location.php)
 * Less commonly used but much larger, the _USA423_ data set by 
   J. Peiró, A. Corberán A. and R. Martí (see
   [UrApHMP](http://www.optsicom.es/uraphmp/)). For convenience this
@@ -21,25 +21,25 @@ The Australia Post data set was first published in:
 
 * Ernst, Andreas T., and Mohan Krishnamoorthy. "[Efficient algorithms
   for the uncapacitated single allocation p-hub median problem](https://www.sciencedirect.com/science/article/pii/S0966834996000113)"
-  Location science 4, no. 3 (1996): 139-154.
+  _Location Science_ 4, no. 3 (1996): 139-154.
 * Ernst, Andreas T., and Mohan Krishnamoorthy. "[Solution algorithms
-  for the capacitated single allocation hub location problem](https://doi.org/10.1023/A:1018994432663)" Annals
-  of Operations Research 86 (1999): 141-159. (With capacities & fixed costs)
+  for the capacitated single allocation hub location problem](https://doi.org/10.1023/A:1018994432663)" _Annals
+  of Operations Research_ 86 (1999): 141-159. (With capacities & fixed costs)
 
 This download contains the AP (Australia Post) data set for p-hub median and capacitated hub location problems. The files contain the following:
 
-* APdata200 - Data file for a full 200 node problem with 8 hubs
-* generate.c - C program for generating smaller data sets
+* `APdata200` - Data file for a full 200 node problem with 8 hubs
+* `generate.c` - C program for generating smaller data sets
   
    >   USAGE: generate n p <APdata200> newdata
    
   This creates a new problem with n nodes and p hubs
-* 20.3 - A sample data set with 20 nodes produced by
+* `20.3` - A sample data set with 20 nodes produced by
    >   generate 20 3 <APdata200> 20
-* FcostX.NN - Fixed cost file for NN nodes where X = \'T\' or \'L\' (the T problems tend to be more difficult). Fcost files are not relevant to the p-hub location problems
-* CapY.NN - Node capacity file for NN nodes where Y = \'T\' or \'L\' (the T problems are more tightly constraint) . Capacity files are not
+* `FcostX.NN` - Fixed cost file for NN nodes where X = \'T\' or \'L\' (the T problems tend to be more difficult). Fcost files are not relevant to the p-hub location problems
+* `CapY.NN` - Node capacity file for NN nodes where Y = \'T\' or \'L\' (the T problems are more tightly constraint) . Capacity files are not
 relevant to the p-hub location problems
-* Solutions-*.txt - Optimal solutions for all combinations of capacitated (CSAHLP) and uncapacitated single allocation (USApHMP) and multiple allocation (UMApHMP) hub median problems, with n in {10,20,25,40,50} and multiple options for hubs or capacities. In the result files we use the nomenclature "NNXY" to refer to the problem generatedfrom data files NN, FcostX.NN and CapY.NN. The objective is given as well as the allocation of hubs. Eg an allocation vector 2,2,4,4,4 means that nodes 2 & 4 are hubs, node 1 is allocated to hub node 2 and nodes 3 & 5 to hub
+* `Solutions-*.txt` - Optimal solutions for all combinations of capacitated (CSAHLP) and uncapacitated single allocation (USApHMP) and multiple allocation (UMApHMP) hub median problems, with n in {10,20,25,40,50} and multiple options for hubs or capacities. In the result files we use the nomenclature "NNXY" to refer to the problem generatedfrom data files NN, FcostX.NN and CapY.NN. The objective is given as well as the allocation of hubs. Eg an allocation vector 2,2,4,4,4 means that nodes 2 & 4 are hubs, node 1 is allocated to hub node 2 and nodes 3 & 5 to hub
 node 4.
 
 Data file format for nodes file:
@@ -59,8 +59,7 @@ Data file format for nodes file:
 <χ>        Distribution cost
 ```
 
-All of the costs are per unit (euclidean) distance, per unit flow
-volume.
+All of the costs are per unit (euclidean) distance, per unit flow volume divided by 1000.
 
 The costs and and capacity files contain one number for each node (in the same order as in the nodes file). For FcostX.NN this represents the cost of making the node a hub. For CapY.NN the numbers are the capacity on incoming commodities (including from the node itself) if that node is
 made a hub.

@@ -1,6 +1,6 @@
 # Personnel Task Scheduling Problem (PTSP) dataset
 
-**File:** [ptask.zip](data/ptask.zip)
+**File:** [ptask.zip](../data/ptask.zip)
 
 This download contains the PTSP data set for Personnel Task Scheduling Problem (also referred to known as a fixed interval scheduling or fixed task scheduling with time windows). The data has been used in the following papers:
 * Krishnamoorthy, M., Ernst, A. T., & Baatar, D. (2012). [Algorithms for large scale shift minimisation personnel task scheduling problems](https://www.sciencedirect.com/science/article/pii/S0377221711010435). European Journal of Operational Research, 219(1), 34-48.
@@ -25,5 +25,5 @@ The name of the data file presents:
 *   the multi–skilling level
 
 For example, Data_10_51_111_66.dat is the 10th data file which presents a problem instance with 51 workers, 111 jobs and with a multi–skilling level of 66%.
-There are 137 data files in the data set [ptask.zip](data/ptask.zip).
+There are 137 data files in the data set [ptask.zip](../data/ptask.zip).
  

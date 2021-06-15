@@ -4,7 +4,7 @@ The Indonesia Container Distribution (ICD) dataset
 > By Wira Redi, Hamid Mokhtar, Mohan Krishnamoorthy, and Andreas T.
 > Ernst; Nov 25th, 2017
 
-**File:** [ICD_dataset.zip](data/ICD_dataset.zip) see also [ICD Computational Results](data/ICD_ComputationalResults_csv.zip)
+**File:** [ICD_dataset.zip](../data/ICD_dataset.zip) see also [ICD Computational Results](../data/ICD_ComputationalResults_csv.zip)
 
 Directories 
 -----------

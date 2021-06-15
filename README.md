@@ -4,14 +4,14 @@ This site provides access to a number of Operations Research problem data sets. 
 
 # Data Sets
 
-* **Hub Location**: [Australia Post dataset](readmeAP.md)
-* [Convoy Movement Problem](readmeCMP.md)
-* [Indonesia Container Movement](readmeICD.md)
-* [Multiple Depot Vehicle Scheduling Problem](readmeMDVSP.md)
-* [Personnel Task Scheduling Problem](readmePTSP.md) - scheduling fixed tasks (intervals) on machines with time windows & qualification constraints.
-* [Resource Constrained Job Scheduling](readmeRCJS.md) - multi-machine scheduling with a single shared resource constraint.
-* [Degree Constrained Minimum Spanning Tree](readmeDCMST.md) 
-* [Berth Allocation Problem](readmeBAP.md) - scheduling of ships on a berth considering tidal constraints.
+* **Hub Location**: [Australia Post dataset](info/readmeAP.md)
+* [Convoy Movement Problem](info/readmeCMP.md)
+* [Indonesia Container Movement](info/readmeICD.md)
+* [Multiple Depot Vehicle Scheduling Problem](info/readmeMDVSP.md)
+* [Personnel Task Scheduling Problem](info/readmePTSP.md) - scheduling fixed tasks (intervals) on machines with time windows & qualification constraints.
+* [Resource Constrained Job Scheduling](info/readmeRCJS.md) - multi-machine scheduling with a single shared resource constraint.
+* [Degree Constrained Minimum Spanning Tree](info/readmeDCMST.md) 
+* [Berth Allocation Problem](info/readmeBAP.md) - scheduling of ships on a berth considering tidal constraints.
 
 
 ### About

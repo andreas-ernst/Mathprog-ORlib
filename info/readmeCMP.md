@@ -4,7 +4,7 @@
 Generalised Convoy Movement Problem (GCMP)
 ==========================================
 
-**File:** [cmp.zip](data/cmp.zip)
+**File:** [cmp.zip](../data/cmp.zip)
 
 The convoy movement problem (CMP) is a combinatorial optimisation problem. It is a vehicle routing and scheduling problem in which encounters of vehicles are avoided and the lengths of vehicles play a role.
 

@@ -1,8 +1,9 @@
 # Degree Constrained Minimum Spanning Tree (DCMST) dataset
 
-**File:** [dcmst.zip](data/dcmst.zip)
+**File:** [dcmst.zip](../data/dcmst.zip)
 
 The DCMST problem is to find a minimum cost spanning tree on a graph in which each node has at most a maximum degree d. The DCMST data available here has been used in the following papers:
+
 * Ernst, A. T. (2010). [A hybrid Lagrangian particle swarm optimization algorithm for the degree-constrained minimum spanning tree problem](https://doi.org/10.1109/CEC.2010.5585939). In _IEEE Congress on Evolutionary Computation_ (pp. 1-8). IEEE.
 * Krishnamoorthy, M., Ernst, A. T., & Sharaiha, Y. M. (2001). [Comparison of algorithms for the degree constrained minimum spanning tree](https://doi.org/10.1023/A:1011977126230). _Journal of Heuristics_, 7(6), 587-611.
 

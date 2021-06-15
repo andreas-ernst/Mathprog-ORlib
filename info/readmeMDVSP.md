@@ -3,7 +3,7 @@ The multiple depot vehicle scheduling problem (MDVSP) dataset
 
 ###  By Sarang Kulkarni, Mohan Krishnamoorthy, Abhiram Ranade, Andreas Ernst, and Rahul Patil; Jan 2018
 
-**File:** [MDVSP.zip](data/MDVSP.zip)
+**File:** [MDVSP.zip](../data/MDVSP.zip)
 
 The directory contains sixty instances of the MDVSP. Each instance file is named as `RN-m-n-k`.dat, denoting the k'th
 instance involving `m` depots and `n` trips.

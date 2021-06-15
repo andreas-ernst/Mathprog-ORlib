@@ -1,6 +1,6 @@
 # Berth Allocation Problem (BAP) dataset
 
-**File:** [BAP-Data.zip](data/BAP-Data.zip)
+**File:** [BAP-Data.zip](../data/BAP-Data.zip)
 
 Test data for the paper 
 

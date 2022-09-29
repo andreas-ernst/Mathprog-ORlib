@@ -12,6 +12,7 @@ This site provides access to a number of Operations Research problem data sets. 
 * [Resource Constrained Job Scheduling](info/readmeRCJS.md) - multi-machine scheduling with a single shared resource constraint.
 * [Degree Constrained Minimum Spanning Tree](info/readmeDCMST.md) 
 * [Berth Allocation Problem](info/readmeBAP.md) - scheduling of ships on a berth considering tidal constraints.
+* [Operating Theatre Planning & Scheduling](info/readmeMSS-SCAP.md) - combined master planning & surgical assignment for operating theatres.
 
 
 ### About

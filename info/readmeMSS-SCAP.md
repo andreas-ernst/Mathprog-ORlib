@@ -2,7 +2,11 @@
 
 **File:**  [MSS-SCAP.zip](../data/MSS-SCAP.zip)
 
-Each data file contains an instance stored as a siple data. The filename indicates the characteristics including number of specialties (S), time horizon in days (D), blocks per day (B) and number of patients (P).
+The problem has been described and the data used in the following paper:
+
+> M. Mashkani, H. Gu, D. Thiruvady and A. T. Ernst, "[Minimizing Total Clinical Deterioration in Operating Theatres](https://ieeexplore.ieee.org/abstract/document/9308264)," _2020 IEEE Symposium Series on Computational Intelligence_ (SSCI), 2020, pp. 2373-2380, doi: [10.1109/SSCI47803.2020.9308264](https://doi.org/10.1109/SSCI47803.2020.9308264). 
+
+Each data file contains an instance stored as a simple data. The filename indicates the characteristics including number of specialties (S), time horizon in days (D), blocks per day (B) and number of patients (P).
 ## Sample data:
 |Categorization|Deadline|MTBT|PatientNO|PriorityScores|Specialty|SurgeryDuration|WaitingTime
 | --- |--- |--- |--- |--- |--- |--- |--- |

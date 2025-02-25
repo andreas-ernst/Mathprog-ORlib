@@ -12,9 +12,8 @@ The CRD and SYM data sets have been obtained from Anton Volgenant, the remainder
 have been created by Andreas Ernst and Mohan Krishnamoorthy.
 
 ## Format:
-The CRD files contain simply co-ordinates in a 2-dimensional
-euclidean space (truncate to integer). All others contain 1/2 of the symmetric
-cost matrix between all pairs of points. ie these should be read with a loop
+The CRD files contain simply co-ordinates in a 2-dimensional euclidean space (truncate to integer). All others contain 1/2 of the symmetric
+cost matrix between all pairs of points. These should be read with a loop
 of the form:
 
 ```python
@@ -27,7 +26,7 @@ Note that the number of nodes, n, is given by the file name (the first two
 digits, with the last digit being the instance number). The only exception is
 that the 100 node data sets are 10x for x=0..9
 
-There are 126 such data files in [dcmst.zip](data/dcmst.zip)
+There are 126 such data files in [dcmst.zip](../data/dcmst.zip)
 
 ## Other files:
 
